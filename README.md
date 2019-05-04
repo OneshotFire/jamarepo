@@ -1,1 +1,2 @@
-jamarepo
+# JAMA
+A Sileo / Cydia repository.
